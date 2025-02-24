@@ -1,0 +1,9 @@
+run:
+Enter the first number
+25
+Enter the second number
+78
+Enter the third number
+87
+The greatest number is: 78
+BUILD SUCCESSFUL (total time: 10 seconds)
