@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg13b_daguman;
+package javasomooy;
 
 /**
  *
  * @author User
  */
-public class Main {
+public class Javasomooy {
 
     /**
      * @param args the command line arguments
